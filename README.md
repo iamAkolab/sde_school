@@ -1,56 +1,62 @@
-# sde_school
+# SDE_SCHOOL
 Follow along the journey of a novice into full stack software development.
 
 
-JavaScript concepts that you should learn:
+## JavaScript concepts that you should learn:
 
 * Lexical Structure
 * Expressions
 * Types
 * Variables
 * Functions
-this
-Arrow functions
-Loops
-Scopes
-Arrays
-Template literals
-Semicolons
-Strict mode
-ECMAScript 6, 2016, 2017
-JSON
-Nodejs. It is an environment to run JavaScript on the server or any machine independent of the browser.
-HTTP Request and Response model and REST API concepts.
-Working with files and machine resources with JavaScript
-async/await and Modules
-npm
+* this
+* Arrow functions
+* Loops
+* Scopes
+* Arrays
+* Template literals
+* Semicolons
+* Strict mode
+* ECMAScript 6, 2016, 2017
+* JSON
+* Nodejs.  It is an environment to run JavaScript on the server or any machine independent of the browser.
+* HTTP Request and Response model and REST API concepts.
+* Working with files and machine resources with JavaScript
+* async/await and Modules
+* npm
 
-The next thing to learn is to get good with HTML and CSS3. The HTML and CSS couple is the visual side of your work. Try to understand their structure and essentials. The rest is different types of implementations that if you know HTML and CSS, will be easy for you.
+The next thing to learn is to get good with HTML and CSS3. The HTML and CSS couple is the visual side of your work. 
+Try to understand their structure and essentials. The rest is different types of implementations that if you know 
+HTML and CSS, will be easy for you.
 
-Learn JQuery, which is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. It’s free, open-source software.
+Learn JQuery, which is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, 
+as well as event handling, CSS animation, and Ajax. It’s free, open-source software.
 
 
-Modern front-end libraries and frameworks
+## Modern front-end libraries and frameworks
 Note: Definitions below are taken from Wikipedia and other online sources.
 
-AngularJs “AngularJS is a JavaScript-based, open-source, front-end web framework mainly maintained by Google and a community of individuals. It’s one of the most popular frameworks for front-end development.” — Wikipedia.
-ReactJs “React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers.” — Wikipedia.
-ReactJs is also one of the most popular ones, with a big community around it.
-VueJs “Vue is an open-source Model–View–ViewModel JavaScript framework for building user interfaces and single-page applications. It was created by Evan You and is maintained by him and the rest of the active core team members coming from various companies such as Netlify and Netguru.” — MarsMedia
+* AngularJs “AngularJS is a JavaScript-based, open-source, front-end web framework mainly maintained by Google and a 
+community of individuals. It’s one of the most popular frameworks for front-end development.” — Wikipedia.
+* ReactJs “React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community 
+of individual developers.” — Wikipedia. ReactJs is also one of the most popular ones, with a big community around it.
+* VueJs “Vue is an open-source Model–View–ViewModel JavaScript framework for building user interfaces and single-page 
+applications. It was created by Evan You and is maintained by him and the rest of the active core team members coming 
+from various companies such as Netlify and Netguru.” — MarsMedia
 
 
 
 
-How to Pick the Right Tools
+## How to Pick the Right Tools
 You need some tools to write code, execute it, and also debug it. Here are my suggestions for the essential tools. (Note: Definitions below are taken from Wikipedia and other online sources.)
 
-VS-Code
+* VS-Code
 “Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux, and macOS. It includes embedded Git and support for debugging, syntax highlighting, intelligent code completion, snippets, and code refactoring.” — Wikipedia.
 
-ZSH
+* ZSH
 “The Z shell is a Unix shell or CLI that can be used as an interactive login shell and as a command interpreter for shell scripting. ZSH supports plugins and gives you a lot of features that help the ease of working with the CLI” — Wikipedia.
 
-Postman
+* Postman
 “Postman is a popular API client that makes it easy for developers to create, share, test, and document APIs. This is done by allowing users to create and save simple and complex HTTP/s requests, as well as read their responses.” — DZone.
 
 These are the essentials, but certainly there are tons of plugins for browsers and VS Code that can ease your development life.
