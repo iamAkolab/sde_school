@@ -1,5 +1,5 @@
 # SDE_SCHOOL
-Follow along the journey of a novice into full stack software development.
+Follow along the journey of an aspiring ML engineer into full stack software development.
 
 
 ## JavaScript concepts that you should learn:
