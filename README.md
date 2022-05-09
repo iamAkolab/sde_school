@@ -69,53 +69,74 @@ These are the essentials, but certainly there are tons of plugins for browsers a
 ## Plan and Road Map
 ![Road Plan](https://github.com/iamAkolab/sde_school/blob/main/1_qlrw9RN-bGSBqgKWUJkubw%402x.png)
 
-earning Material
+## Learning Material
 Here is a list of top-rated courses and tutorials for each topic. There are tons of content out there, but these are good for a start. Just pick one or two from each topic.
 
-HTML + CSS
-https://www.youtube.com/user/DesignCourse
+
+## HTML + CSS
+* https://www.youtube.com/user/DesignCourse
 An awesome youtube channel that talks and teaches front-end development
-https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/
+* https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/
 A well-rated beginners course for HTML and CSS
-https://egghead.io/playlists/css-fundamentals-238ce697
-CSS for beginners
-https://www.coursera.org/specializations/web-design
+* https://egghead.io/playlists/css-fundamentals-238ce697
+
+
+## CSS for beginners
+* https://www.coursera.org/specializations/web-design
 Another good course for HTML and CSS
-JavaScript
-https://www.udemy.com/course/javascript-basics-for-beginners/
-https://www.udemy.com/course/javascript-for-beginners-introduction-learn-fast-easy/
-https://www.udemy.com/course/modern-javascript/
-https://www.coursera.org/learn/javascript-jquery-json
-https://www.edx.org/course/javascript-introduction
-https://www.edx.org/course/programming-for-the-web-with-javascript
-VS Code
-https://egghead.io/browse/tools/vscode
+
+
+## JavaScript
+* https://www.udemy.com/course/javascript-basics-for-beginners/
+* https://www.udemy.com/course/javascript-for-beginners-introduction-learn-fast-easy/
+* https://www.udemy.com/course/modern-javascript/
+* https://www.coursera.org/learn/javascript-jquery-json
+* https://www.edx.org/course/javascript-introduction
+* https://www.edx.org/course/programming-for-the-web-with-javascript
+
+
+## VS Code
+* https://egghead.io/browse/tools/vscode
 This is a good place for you to learn more about IDEs and VsCode.
-Git
-https://www.udemy.com/course/git-going-fast/
-https://gist.github.com/nicowilliams/a6e5c9131767364ce2f4b3996549748d
-https://egghead.io/browse/tools/git
-https://www.udemy.com/course/git-complete/
-NodeJS
-https://www.w3schools.com/nodejs/default.asp
-https://nodejs.dev/learn/introduction-to-nodejs
-https://www.youtube.com/watch?v=TlB_eWDSMt4
-https://www.youtube.com/user/programmingwithmosh
-https://www.udemy.com/course/the-complete-nodejs-developer-course-2/
-npm
-https://www.udemy.com/course/understanding-npm/
-https://www.tutorialspoint.com/nodejs/nodejs_npm.htm
-https://www.w3schools.com/nodejs/nodejs_npm.asp
-HTTP protocol
-https://egghead.io/courses/understand-the-basics-of-http
-ReactJs
-https://reactjs.org/tutorial/tutorial.html
+
+
+## Git
+* https://www.udemy.com/course/git-going-fast/
+* https://gist.github.com/nicowilliams/a6e5c9131767364ce2f4b3996549748d
+* https://egghead.io/browse/tools/git
+* https://www.udemy.com/course/git-complete/
+
+
+## NodeJS
+* https://www.w3schools.com/nodejs/default.asp
+* https://nodejs.dev/learn/introduction-to-nodejs
+* https://www.youtube.com/watch?v=TlB_eWDSMt4
+* https://www.youtube.com/user/programmingwithmosh
+* https://www.udemy.com/course/the-complete-nodejs-developer-course-2/
+
+
+## npm
+* https://www.udemy.com/course/understanding-npm/
+* https://www.tutorialspoint.com/nodejs/nodejs_npm.htm
+* https://www.w3schools.com/nodejs/nodejs_npm.asp
+
+
+## HTTP protocol
+* https://egghead.io/courses/understand-the-basics-of-http
+
+
+## ReactJs
+* https://reactjs.org/tutorial/tutorial.html
 This is the best place to start. The React website has a great, simple tutorial to teach the basics.
-https://reactjs.org/community/courses.html
+* https://reactjs.org/community/courses.html
 And then check this out.
-https://www.w3schools.com/react/
-https://egghead.io/courses/the-beginner-s-guide-to-react
-Chrome DevTools
-https://egghead.io/browse/tools/chrome-devtools
-GitHub
-https://egghead.io/browse/platforms/github
+* https://www.w3schools.com/react/
+* https://egghead.io/courses/the-beginner-s-guide-to-react
+
+
+## Chrome DevTools
+* https://egghead.io/browse/tools/chrome-devtools
+
+
+## GitHub
+* https://egghead.io/browse/platforms/github
