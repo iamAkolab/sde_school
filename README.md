@@ -48,18 +48,26 @@ from various companies such as Netlify and Netguru.” — MarsMedia
 
 
 ## How to Pick the Right Tools
-You need some tools to write code, execute it, and also debug it. Here are my suggestions for the essential tools. (Note: Definitions below are taken from Wikipedia and other online sources.)
+You need some tools to write code, execute it, and also debug it. Here are my suggestions for the essential tools. 
+(Note: Definitions below are taken from Wikipedia and other online sources.)
 
 * VS-Code
-“Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux, and macOS. It includes embedded Git and support for debugging, syntax highlighting, intelligent code completion, snippets, and code refactoring.” — Wikipedia.
+“Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux, and macOS. It includes embedded 
+Git and support for debugging, syntax highlighting, intelligent code completion, snippets, and code refactoring.” — Wikipedia.
 
 * ZSH
-“The Z shell is a Unix shell or CLI that can be used as an interactive login shell and as a command interpreter for shell scripting. ZSH supports plugins and gives you a lot of features that help the ease of working with the CLI” — Wikipedia.
+“The Z shell is a Unix shell or CLI that can be used as an interactive login shell and as a command interpreter for shell scripting. 
+ZSH supports plugins and gives you a lot of features that help the ease of working with the CLI” — Wikipedia.
 
 * Postman
-“Postman is a popular API client that makes it easy for developers to create, share, test, and document APIs. This is done by allowing users to create and save simple and complex HTTP/s requests, as well as read their responses.” — DZone.
+“Postman is a popular API client that makes it easy for developers to create, share, test, and document APIs. This is done by allowing 
+users to create and save simple and complex HTTP/s requests, as well as read their responses.” — DZone.
 
 These are the essentials, but certainly there are tons of plugins for browsers and VS Code that can ease your development life.
+
+
+## Plan and Road Map
+![Road Plan](https://github.com/iamAkolab/sde_school/blob/main/1_qlrw9RN-bGSBqgKWUJkubw%402x.png)
 
 earning Material
 Here is a list of top-rated courses and tutorials for each topic. There are tons of content out there, but these are good for a start. Just pick one or two from each topic.
