@@ -140,3 +140,15 @@ And then check this out.
 
 ## GitHub
 * https://egghead.io/browse/platforms/github
+
+
+## Free Courses
+* Glitch https://glitch.com/glimmer/post/react-starter-kit: React Starter Kit - A free, 5-part video course with interactive code examples that will help you learn React.
+* Codecademy https://www.codecademy.com/learn/react-101: React 101 - Codecademy’s introductory course for React.
+* Egghead.io https://egghead.io/courses/start-learning-react: Start Learning React - This series will explore the basic fundamentals of React to get you started.
+* React Crash Course 2018 https://www.youtube.com/watch?v=Ke90Tje7VS0 - A beginner-friendly crash course through the most important React topics.
+* Frontend Armory https://frontarm.com/courses/react-fundamentals/: React Fundamentals - Learn React without the buzzwords.
+* Egghead.io: The Beginner’s Guide to ReactJS  https://egghead.io/courses/the-beginner-s-guide-to-react- Free course for React newbies and those looking to get a better understanding of React fundamentals.
+* Free React Bootcamp https://tylermcginnis.com/free-react-bootcamp/ - Recordings from three days of a free online React bootcamp.
+* Scrimba: Learn React for free https://scrimba.com/g/glearnreact - 48 hands-on video tutorials building react apps.
+University of Helsinki: Full Stack Open MOOC https://fullstackopen.com/en/ - Learn to build web applications with React. Available in English, Spanish, Chinese and Finnish.
