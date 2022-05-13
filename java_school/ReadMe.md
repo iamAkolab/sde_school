@@ -1,4 +1,6 @@
 # Course Structure
+
+![Java Course Udacity](https://github.com/iamAkolab/sde_school/blob/main/java_school/Learns.gif?raw=true)
 In this first lesson, you’ll program your computer to remember numbers and text using variables, and 
 you’ll get to use variables to do lots of calculations that us humans can’t do!
 
