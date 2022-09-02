@@ -1,5 +1,6 @@
 int myNum = 5;
 float myFloatNum = 5.99f;
+double price = 23.75;
 char myLetter = 'D';
 boolean myBool = true;
 String myText = "Hello";
