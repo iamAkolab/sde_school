@@ -10,6 +10,6 @@ public class GFG {
     {
  
         // Print statement
-        System.out.println("Welcome to GeeksforGeeks");
+        System.out.println("Hello World!");
     }
 }
