@@ -4,7 +4,7 @@ if(isCold) {
   System.out.println("It's cold, wear a coat!");
 }
 
-////
+//------///
 boolean isLightGreen = true
 boolean isLightYellow = false;
 
