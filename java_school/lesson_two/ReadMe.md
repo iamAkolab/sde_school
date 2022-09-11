@@ -1,4 +1,4 @@
-This is lesson 2 Control Flow and Condtionals
+# This is lesson 2 Control Flow and Condtionals
 
 Order of Operations (for Logical Operators)
 Just like how math operators (*, /, +, -) have an order that they are evaluated in, ie. multiplication is evaluated before addition, so do logical operators!
