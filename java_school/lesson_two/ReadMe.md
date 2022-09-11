@@ -1,28 +1,22 @@
 # This is lesson 2 Control Flow and Condtionals
 
-Order of Operations (for Logical Operators)
-Just like how math operators (*, /, +, -) have an order that they are evaluated in, ie. multiplication is evaluated before addition, so do logical operators!
-
-The ! operator will be evaluated first, then &&, and finally ||. If you have a bunch of the same operations in an expression, like multiple || combinations, then you just operate from left to right.
-
-To change the order of operations you can surround expressions in parentheses because parentheses will be evaluated before anything else.
+## Order of Operations (for Logical Operators)
+* Just like how math operators (*, /, +, -) have an order that they are evaluated in, ie. multiplication is evaluated before addition, so do logical operators!
+* The ! operator will be evaluated first, then &&, and finally ||. If you have a bunch of the same operations in an expression, like multiple || combinations, then you just operate from left to right.
+* To change the order of operations you can surround expressions in parentheses because parentheses will be evaluated before anything else.
 
 So, the order of operations is:
+* Parentheses
+* NOT !
+* AND &&
+* OR ||
 
-Parentheses
-NOT !
-AND &&
-OR ||
 For the expression:
-
-!true || false && true
+* !true || false && true
 
 This will have the NOT ! operator evaluated first, so this simplifies to:
-
-false || false && true
+* false || false && true
 
 Then the AND && operator will be evaluated. The combination false && true equals false, and the whole expression becomes:
-
-false || false
-
+* false || false
 Finally the OR || operator will be evaluated, and the whole expression evaluates to false.
