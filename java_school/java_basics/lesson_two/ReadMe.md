@@ -15,7 +15,7 @@ For the expression:
 * !true || false && true
 
 This will have the NOT ! operator evaluated first, so this simplifies to:
-* false || false && true
+* false || false && true.
 
 Then the AND && operator will be evaluated. The combination false && true equals false, and the whole expression becomes:
 * false || false
