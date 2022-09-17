@@ -1,7 +1,7 @@
 ///
 
 public String func(){
-  if(){
-  }else {
+  if() {
+  } else {
   } return
 }
