@@ -1,7 +1,10 @@
 ///
 
-public String func(){
-  if() {
+public String admission(double height){
+  String passText;
+  if(height > 120) {
+    passText = "You pass the height requirements.";
   } else {
-  } return
+    passText = " Sorry, you do not pass.";
+  } return passText
 }
