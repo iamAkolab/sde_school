@@ -10,6 +10,6 @@ public String admission(double height){
 }
 
 public double makeChange(double itemCost, double dollarsProvided) {
-  double chnage = dollarProvided - itemCost;
+  double chnage = dollarsProvided - itemCost;
   return chnage;
 }
