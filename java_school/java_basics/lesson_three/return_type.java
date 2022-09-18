@@ -8,3 +8,8 @@ public String admission(double height){
     passText = " Sorry, you do not pass.";
   } return passText
 }
+
+public double makeChange(double itemCost, double dollarsProvided) {
+  double chnage = dollarProvided - itemCost;
+  return chnage;
+}
