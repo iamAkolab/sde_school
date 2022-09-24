@@ -12,5 +12,5 @@ public int rollDice() {
   
   // cast to integer (ignore decimal part)
   // ex. 6.998 becomes 6
-  nt randomInt = (int) randomNumber;
+  int randomInt = (int) randomNumber;
 }
