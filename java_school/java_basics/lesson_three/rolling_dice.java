@@ -13,6 +13,9 @@ public int rollDice() {
   // cast to integer (ignore decimal part)
   // ex. 6.998 becomes 6
   int randomInt = (int) randomNumber;
+  
+  // returm statement
+  return randomInt;
 }
 
 int roll1 = rollDice();
