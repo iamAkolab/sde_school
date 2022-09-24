@@ -18,3 +18,11 @@ Good for longer descriptions
 * @return description of return value
 */
 // ---------------------------------------------------------------
+/**Returns the absolute value of an int value. If the argument is not negative, the argument
+/* is returned. If the argument is negative, the negation of the argument is returned.
+/*
+/* @param a the argument whose absolute value is to be determined
+/*
+/* @return the absolute value of the argument.
+*/
+// ---------------------------------------------------------------
