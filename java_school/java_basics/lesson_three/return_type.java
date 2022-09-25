@@ -1,5 +1,6 @@
 /// the return parameter must be specified after the class access declaration
 
+
 public String admission(double height){
   String passText;
   if(height > 120) {
