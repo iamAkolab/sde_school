@@ -6,7 +6,6 @@ Hi, I'm a multiline comment
 Good for longer descriptions
 */
 
-
 // ---------------------------------------------------------------
 // Java documentation (doc) comments
 /** 
