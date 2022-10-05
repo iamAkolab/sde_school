@@ -2,5 +2,5 @@
  
  * While Loop
  * For Loop
- * Nested Loop
+ * Nested Loops
  
