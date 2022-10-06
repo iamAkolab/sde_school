@@ -11,9 +11,10 @@ public void beep()
  /**
 * keep beeping until snoozed
 */
-  public void alarm() {
+public void alarm() {
   boolean on = checkAlarm();
-  if(on){
-    beeo();
+  while(on) {
+    beep();
+    on = checkAlarm();
   }
 }
