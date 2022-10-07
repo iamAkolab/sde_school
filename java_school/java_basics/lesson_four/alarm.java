@@ -11,6 +11,7 @@ public void beep()
  /**
 * keep beeping until snoozed
 */
+  
 public void alarm() {
   boolean on = checkAlarm();
   while(on) {
