@@ -8,10 +8,10 @@ public void beep()
 */
   public boolean checkAlarm()
   
+  
  /**
 * keep beeping until snoozed
 */
-  
 public void alarm() {
   boolean on = checkAlarm();
   while(on) {
