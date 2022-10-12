@@ -3,6 +3,7 @@
 */
 public void beep()
   
+  
 /**
 * @return true if alaram is on, false if off
 */
