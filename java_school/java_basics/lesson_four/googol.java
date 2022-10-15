@@ -1,3 +1,5 @@
+
+
 String googol = "1";
 int len = googol.length();
 
