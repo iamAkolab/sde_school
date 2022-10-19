@@ -21,5 +21,11 @@ public void alarm() {
 }
 
 public void raiseAlarm(int numOfWarings) {
+  int i = 1;
+  
+  while (i <= numOfWarnings) {
+    System.out.println("Warning");
+    i++;
+  }
 
 }
