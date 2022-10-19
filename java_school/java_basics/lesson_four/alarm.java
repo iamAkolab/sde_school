@@ -19,3 +19,7 @@ public void alarm() {
     on = checkAlarm();
   }
 }
+
+public void raiseAlarm(int numOfWarings) {
+
+}
