@@ -9,7 +9,6 @@ public void beep()
 */
   public boolean checkAlarm()
   
-  
  /**
 * keep beeping until snoozed
 */
