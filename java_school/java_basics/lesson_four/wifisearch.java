@@ -7,6 +7,7 @@ public void searchWifi() {
   boolean wifiAvailable = checkWifi();
   if (wifiAvailable){
     System.out.println("Wifi found");
+    break;
     }
   }
 
