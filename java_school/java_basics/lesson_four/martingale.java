@@ -9,6 +9,9 @@ public int martingale(){
     if (win) {
       money += bet;
       bet = 10;
+       if(money >= target){
+       break;
+      }
     }
     else {
       money -= bet;
