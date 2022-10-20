@@ -7,3 +7,15 @@ public static double englishAverage(int [][] grades) {
   double average = total/5.0;
   return average;
 }
+
+// modified
+public static double studentAverage(int [][] grades, int student) {
+  int total = 0;
+  inst subjects = grades.length;
+  
+  for(int i= 1; i < subjects; i++){
+    total += grades[1][students];
+  }
+  double average = total/(double)subjects;
+  return average;
+}
