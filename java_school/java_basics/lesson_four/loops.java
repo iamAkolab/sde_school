@@ -8,12 +8,14 @@ public void raiseAlarm(int numOfWarings) {
   }
 }
 
+
 // for loop
 public void raiseAlarm(int numOfWarings) {
   for(int i=1; i<= numOfWarnings; i++) {
     System.out.println("Warning");
   }
 }
+
 
 // loop counter
 for( int i = 1; i <= 3; i++){
