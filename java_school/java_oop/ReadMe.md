@@ -7,7 +7,7 @@ This lesson provides an introduction to object-oriented programming, and also ex
 Understanding user interaction is a core part of building any user-facing Java program. In this lesson, you’ll learn how to build a program that accepts user input while the program is running.
 
 * LESSON 3
-** Project 1: Guess The Movie
+Project 1: Guess The Movie
 This is your first project. You will be building a guessing game using the knowledge covered in the first 2 lessons.
 
 * LESSON 4 Inheritance
