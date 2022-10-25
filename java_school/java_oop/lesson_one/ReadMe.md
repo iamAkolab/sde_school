@@ -5,4 +5,3 @@ This lesson provides an introduction to object-oriented programming, and also ex
 * Fields
 * Methoda
 * Objects and Classess
-* 
