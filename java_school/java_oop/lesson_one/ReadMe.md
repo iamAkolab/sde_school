@@ -37,4 +37,15 @@ Methods, just like any function can also take in arguments. For Example: Assume 
 
 void setBookmark(int pageNum);
 
+Here's a comparison that illustrates when to use which:
+
+| Class	      | Object |
+| :---:        | :---: |
+| What:		| A Data Type	A Variable |
+| Where:		| Has its own file	Scattered around the project |
+| Why:		| Defines the structure	Used to implement to logic
+| Naming convention:		CamelCase (starts with an upper case)	camelCase | (starts with a lower case) |
+| Examples:		Country	| australia |
+| Book	| lordOfTheRings | 
+| Pokemon	| pikachu |
 
