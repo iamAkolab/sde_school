@@ -27,4 +27,14 @@ To access the title field you would use
 
 book.title
 
+## Methods
+Methods in Java are functions that belong to a particular object. When we get to creating our own object types later in this lesson we will be creating methods the same way we used to created functions.
+
+### Calling a method
+To use a method you call it (just like calling a function). This is also done using the dot modifier .
+
+Methods, just like any function can also take in arguments. For Example: Assume that our book object has a method called setBookmark that takes the page number as a parameter:
+
+void setBookmark(int pageNum);
+
 
