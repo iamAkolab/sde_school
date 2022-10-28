@@ -44,9 +44,9 @@ Here's a comparison that illustrates when to use which:
 | What:		| A Data Type	A Variable |
 | Where:		| Has its own file	Scattered around the project |
 | Why:		| Defines the structure	Used to implement to logic
-| Naming convention:		|
-|CamelCase (starts with an upper case)	camelCase | (starts with a lower case) |
-| Examples:		|
+| Naming convention:		|  |
+|CamelCase (starts with an upper case) |	camelCase (starts with a lower case) |
+| Examples:		| |
 |Country	| australia |
 | Book	| lordOfTheRings | 
 | Pokemon	| pikachu |
