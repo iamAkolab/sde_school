@@ -16,6 +16,5 @@ Learn how to take advantage of core OOP concepts in Java to make your code easy 
 * LESSON 5 Collections
 Collections are similar to arrays, but much more powerful. In this lesson, you’ll discover how to use this core Java component.
 
-* LESSON 6 
-Project 2: Space Challenge
+* LESSON 6  Project 2: Space Challenge
 This is your final project. You will be using the knowledge covered in this entire course to build a space travel simulation.
