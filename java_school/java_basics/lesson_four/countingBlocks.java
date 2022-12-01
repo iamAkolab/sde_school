@@ -1,4 +1,4 @@
-// 
+// count blocks
 
 public int countBlocks (int levels) {
   int total = 0;
