@@ -1,4 +1,4 @@
-# Object Oriented Programming in Javas
+# Object Oriented Programming in Java
 
 * LESSON 1 The World of Objects
 This lesson provides an introduction to object-oriented programming, and also explains how to use classes and objects in Java.
