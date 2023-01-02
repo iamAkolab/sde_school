@@ -51,3 +51,11 @@ Here's a comparison that illustrates when to use which:
 | Book	| lordOfTheRings | 
 | Pokemon	| pikachu |
 
+### Everything is an object in Java
+| Class	      | Privmitive |
+| :---:        | :---: |
+| Integer |	int |
+| Long	| long |
+Double	double
+Character	char
+String	char[]
