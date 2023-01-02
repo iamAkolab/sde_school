@@ -10,6 +10,7 @@ If this main method doesn't exist, or if there's more than one, the Java program
 
 public static void main(String [] args){
    // Start my program here
+   System.out.println("Hello world!");
 }
 
 /* Let's break it down:
