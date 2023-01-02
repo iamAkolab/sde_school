@@ -52,10 +52,13 @@ Here's a comparison that illustrates when to use which:
 | Pokemon	| pikachu |
 
 ### Everything is an object in Java
+Each of those classes is made up of the corresponding primitive type as its field, but usually also comes with some powerful methods.
+
+It also allows you to forget about primitive types and treat everything in Java as an object. However, it is still recommended to use primitive types when writing a simple piece of code.
 | Class	      | Privmitive |
 | :---:        | :---: |
 | Integer |	int |
 | Long	| long |
-Double	double
-Character	char
-String	char[]
+| Double| double |
+| Character	| char |
+| String | 	char[] |
