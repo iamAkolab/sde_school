@@ -33,7 +33,7 @@ Setting the isBorrowed field as private will prevent you from mistakenly changin
 
 And to be able to read the value of isBorrowed, we've created a getter method called isBookBorrowed() that is public and simply returns the value of isBorrowed
 
-# Summary
+## Summary
 * Always try to declare all fields as private
 * Create a constructor that accepts those private fields as inputs
 * Create a public method that sets each private field, this way you will know when you are changing a field. These methods are called setters
