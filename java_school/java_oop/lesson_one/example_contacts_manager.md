@@ -41,9 +41,70 @@ class ContactsManager {
    }
 }
 ```
-he friendsCount starts from 0 and will increment every time we add a new contact later.
+the friendsCount starts from 0 and will increment every time we add a new contact later.
 
 The Contact array myFriends (just like any array) needs to be initialized using the new keyword and we chose to reserve enough space in the array to store up 
 to 500 contacts.
 
 # The ContactsManager class methods
+The first method we will create in the ContactsManager class is the addContact method which will add a Contact object to the Contact array myFriends:
+
+```
+  void addContact(Contact contact){
+      myFriends[friendsCount] = contact;
+      friendsCount++;
+   }
+  ```
+  
+The method addContact takes a Contact object as an input parameter, and uses the friendsCount value to fill that slot in the array with the contact that was passed into the method.
+Then, since we need to move that counter to point to the following slot in the array, we increment friendsCount using the increment operation ++
+
+Now, let's add another method called searchContact that will search through the array using a name String and return a Contact object once a match is found:
+```
+Contact searchContact(String searchName){
+   for(int i=0; i<friendsCount; i++){
+      if(myFriends[i].name.equals(searchName)){
+         return myFriends[i];
+      }
+   }
+   return null;
+}
+```
+
+This method loops over the array, and for each element myFriends[i] it compares the name field to the searchName value using this if statment.
+This if statement will evaluate to true if the searchName is equal to the name field in the Contact stored in myFriends[i]
+
+If it was a match, the loop will return the matching Contact object myFriends[i]. Otherwise. it will return null indicating that it could not find that contact.
+
+Putting all this together, our ContactsManager class will look like this:
+
+```
+class ContactsManager {
+   // Fields:
+   Contact [] myFriends;
+   int friendsCount;
+
+   // Constructor:
+   ContactsManager(){
+      friendsCount = 0;
+      myFriends = new Contact[500];
+   }
+
+   // Methods:
+   void addContact(Contact contact){
+      myFriends[friendsCount] = contact;
+      friendsCount++;
+   }
+
+   Contact searchContact(String searchName){
+      for(int i=0; i<friendsCount; i++){
+         if(myFriends[i].name.equals(searchName)){
+            return myFriends[i];
+         }
+      }
+      return null;
+   }
+}
+```
+
+
