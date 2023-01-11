@@ -107,4 +107,14 @@ class ContactsManager {
 }
 ```
 
+To be able to run this program, we need the main method, so let's create another class called Main that will hold this method:
+```
+class Main {
+   public static void main(String [] args){
+      ContactManager myContactManager = new ContactManager();
+   }
+}
+```
+
+This means that once this program runs, the main method will start which will create the ContactManager object myContactManager and thus ready to be used.
 
