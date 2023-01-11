@@ -118,3 +118,59 @@ class Main {
 
 This means that once this program runs, the main method will start which will create the ContactManager object myContactManager and thus ready to be used.
 
+
+# Task
+* Create a ContactsManager object called myContactsManager using the default constructor (we've already done so in the previous page)
+* Create a new Contact variable
+   * Set the name to a friend's name
+   * Set the phoneNumber field to their phone number
+* Call the addContact method in myContactsManager to add that contact
+* Repeat steps 2 and 3 for 4 more contacts
+* Search for a contact using the method searchContact and print out their phone number
+
+```
+public static void main(String [] args){
+
+   // Create the ContactsManager object
+   ContactsManager myContactsManager = new ContactsManager();
+   
+   // Create a new Contact object for Jamiu
+   Contact friendJamiu = new Contact();
+   
+   // Set the fields
+   friendJamiu.name = "Jamiu";
+   friendJamiu.phoneNumber = "0809999999";
+   
+   // Add Jamiu Contact to the ContactsManager
+   myContactsManager.addContact(friendJamiu);
+   
+   
+   // Create a new Contact object for Janet
+   Contact friendJanet = new Contact();
+   
+   // Set the fields
+   friendJanet.name = "Janet";
+   friendJanet.phoneNumber = "080888888888";
+   
+   // Add Janet Contact to the ContactsManager
+   myContactsManager.addContact(friendJanet);
+   
+   
+   // Create a new Contact object for Joy
+   Contact friendJoy = new Contact();
+   
+   // Set the fields
+   friendJoy.name = "Joy";
+   friendJoy.phoneNumber = "08077777777";
+   
+   // Add Janet Contact to the ContactsManager
+   myContactsManager.addContact(friendJoy);
+   
+
+   // Now let's try to search of a contact and display their phone number
+   Contact result = myContactsManager.searchContact("Jamiu");
+   System.out.println(result.phoneNumber);
+
+}
+```
+
