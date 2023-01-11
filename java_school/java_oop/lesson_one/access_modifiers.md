@@ -1,8 +1,9 @@
 # Fields (public vs private)
 To label a field as private or public simply add the modifier just before the field type when declaring it:
-
+```
 public int score;
 private String password;
+```
 You always have the final call on which fields you'd want to make public vs private, and it always depends on the purpose of the field as well as the overall design of your code.
 
 However, it's strongly recommended in Java to label ALL fields as private:
