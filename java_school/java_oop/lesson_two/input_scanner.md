@@ -38,3 +38,15 @@ System.out.println("You live at: " + address);
 ```
 
 The above code will wait until the user types in their address, then stores it into the variable address and then prints it back to the user.
+
+If you want to read a number into an integer variable instead of the entire line:
+```
+System.out.println("Enter your grade: ");
+Scanner scanner = new Scanner(System.in);
+int grade = scanner.nextInt();
+if(grade > 90){
+   System.out.println("Wow! you did well!");
+}else{
+   System.out.println("Not bad, but you can do better next time!");
+}
+```
