@@ -28,3 +28,13 @@ Calling the method nextLine() in that scanner object will return a String that c
 ```
 scanner.nextLine();
 ```
+
+## For example:
+```
+System.out.println("Enter your address: ");
+Scanner scanner = new Scanner(System.in);
+String address = scanner.nextLine();
+System.out.println("You live at: " + address);
+```
+
+The above code will wait until the user types in their address, then stores it into the variable address and then prints it back to the user.
