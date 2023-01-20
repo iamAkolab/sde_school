@@ -1,4 +1,4 @@
-# File Scanners
+# File Scanner
 Another way of accepting runtime input is through files, these files can be plain text files that the user creates with a very basic text editor 
 (e.g. notepad on windows or TextEdit on macs).
 
