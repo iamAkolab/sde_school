@@ -1,4 +1,4 @@
-# Inheritance
+# Lesson Inheritance
 
 ## Encapsulation
 Each class is just like a capsule that contains everything it needs and nothing more
