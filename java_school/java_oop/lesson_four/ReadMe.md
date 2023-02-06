@@ -55,3 +55,10 @@ class Rock extends Piece{
 
 Note: If a child's constructor does not explicitly call the parent's constructor using super, the Java compiler automatically inserts a call to the default constructor of the parent class. If the parent class does not have a default constructor, you will get a compile-time error.
 
+## Multiple Inheritance
+Extending a class is extremely helpful in many occasions:
+
+Extending the capability of a class without making any changes to it.
+Sharing some common code between variations of that class.
+Leveraging polymorphism to treat different classes as if they were the same.
+However, there is 1 major limitation in Java: A class cannot extend more than 1 class (i.e. multiple inheritance is not allowed in Java).
