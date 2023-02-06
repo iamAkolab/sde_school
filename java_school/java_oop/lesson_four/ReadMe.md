@@ -64,3 +64,8 @@ Leveraging polymorphism to treat different classes as if they were the same.
 However, there is 1 major limitation in Java: A class cannot extend more than 1 class (i.e. multiple inheritance is not allowed in Java).
 
 Why? Because multiple inheritance could cause ambiguity if the parents had similar methods.
+
+# Interface
+An interface is a reference type in Java. It is similar to class.
+An Interface in Java programming language is defined as an abstract type used to specify the behavior of a class.
+Think of a caravan. Half House Half Car. We can define a mobavle part anf the habitatble part
