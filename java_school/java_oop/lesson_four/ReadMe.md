@@ -69,3 +69,10 @@ Why? Because multiple inheritance could cause ambiguity if the parents had simil
 An interface is a reference type in Java. It is similar to class.
 An Interface in Java programming language is defined as an abstract type used to specify the behavior of a class.
 Think of a caravan. Half House Half Car. We can define a mobavle part anf the habitatble part
+
+### Summary
+* Interfaces define what a class should do but not how to do it.
+* Creating an interface is very similar to creating a class
+* An interface's sole purpose is to be implemented by one or more classes
+* You cannot create an instance (Object) from an interface
+* It's not reducing code repetition it's more about enforcing a good design.
