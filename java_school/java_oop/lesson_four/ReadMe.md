@@ -62,3 +62,5 @@ Extending the capability of a class without making any changes to it.
 Sharing some common code between variations of that class.
 Leveraging polymorphism to treat different classes as if they were the same.
 However, there is 1 major limitation in Java: A class cannot extend more than 1 class (i.e. multiple inheritance is not allowed in Java).
+
+Why? Because multiple inheritance could cause ambiguity if the parents had similar methods.
