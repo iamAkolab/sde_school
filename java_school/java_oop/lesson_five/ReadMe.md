@@ -30,8 +30,23 @@ A List in Java is an interface that behaves very similarly to an array
 
 
 ## ArrayList
-This is the most common class that implements the List interface uses an array internally. 
+This is the most common class that implements the List interface uses an Array internally. 
 It allows you initialize this collection variable names, without specifying the number of items in it.
+An ArrayList is a class that implements the interface List. It's simply a wrapper around an array, 
+but provides really powerful methods that make dealing with the array much simpler.
+
+Note: An item in an ArrayList is known as an element
+
+Let's have a look at some of the ArrayList's methods:
+
+* add(E element): Appends the specified element to the end of this list.
+* add(int index, E element): Appends the specified element to the specified index of this list.
+* get(int index): Returns the element at the specified position in this list.
+* contains(Object o): Returns true if this list contains the specified element.
+* remove(int index): Removes the element at the specified position in this list.
+* size(): Returns the number of elements in the list.
+
+To create and initialize an ArrayList:
 
 ```
 ArrayList names = new ArrayList();
