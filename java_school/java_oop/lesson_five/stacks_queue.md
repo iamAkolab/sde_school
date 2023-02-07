@@ -31,3 +31,9 @@ System.out.println(breakingNews);
 String moreNews =  (String) newsFeed.pop();
 System.out.println(moreNews);
 ```
+
+If you want to access the top of the stack without removing it, then call peek instead of pop
+
+```
+String peekNews = (String) newsFeed.peek();
+```
