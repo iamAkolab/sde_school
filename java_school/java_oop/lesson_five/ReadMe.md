@@ -58,3 +58,27 @@ names.add("Tessa")
 names.remove("Tim")
 ```
 Remove will remove the items as well as take care of the indices.
+
+## Loops & Collections
+Just like with arrays, the best way to access each and every element in an ArrayList is to create a loop and use the loop counter as an index:
+
+```
+// First get the size of the array list
+int size = list.size();
+// Start the loop
+for(int i=0; i<size; i++){
+   System.out.println(list.get(i));
+}
+```
+
+The above will get each element at index "i" and print it.
+There's another type of loop that's basically a shorthand for loops that doesn't require you to specify a loop counter variable nor an index variable.
+It consists of 2 parts, declaring the item variable followed by a colon : then the ArrayList variable (or any collection type):
+
+```
+// iterate via "New way to loop"
+for (String item : list) {
+   System.out.println(item);
+}
+```
+This basically reads: For each item in the list, print that item! Pretty simple!
