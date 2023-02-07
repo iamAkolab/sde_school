@@ -82,3 +82,15 @@ for (String item : list) {
 }
 ```
 This basically reads: For each item in the list, print that item! Pretty simple!
+
+
+## Collections and Polymorphism
+```
+ArrayList<Media> playlist = new ArrayList();
+
+Video someVideo = new Video();
+Audio someAudio = new Audio();
+
+playlist.add(someVideo);
+playlist.add(someAudio);
+```
