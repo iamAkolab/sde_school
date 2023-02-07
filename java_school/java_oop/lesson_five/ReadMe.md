@@ -20,9 +20,18 @@ names[2] = "Will"
 Collections are bunch of classes and interafaces java allows you to use to simplify you dealing with mulitiple
 items of the same type. They include List, Stack, Map and Queue.
 
+## Lists
+A List in Java is an interface that behaves very similarly to an array
+
+* It's an ordered collection (also known as a sequence).
+* The user of this interface has precise control over where each item is inserted in the list.
+* The user can access items by their integer index (position in the list).
+* The user can search for items in the list by looping over the items in it.
+
+
 ## ArrayList
-This is the most common type of List. It allows you initialize this collection variable names, without specifying
-the number of items in it
+This is the most common class that implements the List interface uses an array internally. 
+It allows you initialize this collection variable names, without specifying the number of items in it.
 
 ```
 ArrayList names = new ArrayList();
