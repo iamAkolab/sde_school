@@ -86,6 +86,7 @@ This basically reads: For each item in the list, print that item! Pretty simple!
 
 ## Collections and Polymorphism
 ```
+// setting this as a Media genrics hopes to avoid casting err
 ArrayList<Media> playlist = new ArrayList();
 
 Video someVideo = new Video();
