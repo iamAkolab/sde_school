@@ -93,4 +93,8 @@ Audio someAudio = new Audio();
 
 playlist.add(someVideo);
 playlist.add(someAudio);
+
+// to retrieve an item from the playlist, we can always retrieve it as a media file
+Media media = playlist.get(0)
+media.play()
 ```
