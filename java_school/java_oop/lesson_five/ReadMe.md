@@ -99,3 +99,38 @@ playlist.add(someAudio);
 Media media = playlist.get(0)
 media.play()
 ```
+
+## ArrayList methods
+You can search for an item in an ArrayList the same way we've done with arrays before, all you have to do is create a loop that checks every item in the ArrayList and compares it to the one you are looking for.
+
+For example, looking for the String "Sydney" in the ArrayList cities will look like this:
+```
+for(int i=0; i<cities.size(); i++){
+   if(cities.get(i).equals("Sydney")){
+      return true;
+   }
+}
+```
+Or even use the shorthand loop that we mentioned earlier:
+
+```
+for(String city : cities){
+   if(city.equals("Sydney")){
+      return true;
+   }
+}
+```
+
+Moreover, ArrayList comes with the power of being a class that contains a bunch of useful methods, including:
+```
+int indexOf(Object o)
+```
+This method returns the index of the first occurrence of the specified element in this list, or -1 if this list does not contain the element.
+So instead of having to create a loop and search "Sydney" one by one you can replace all that with this 1 line of code:
+```
+cities.indexOf("Sydney");
+```
+If the above returned -1 then Sydney is not in the list, if it returned any positive value than that will be the index of the String "Sydney".
+
+Another really cool method is the remove() method.
+The remove() method not only handles searching for and removing the item from the list but also shifts all the following items to fill up the gap created by removing that item.
