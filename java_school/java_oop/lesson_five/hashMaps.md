@@ -4,7 +4,7 @@ The reason it is important to use the correct data structure for a variable or a
 A single program can be implemented in so many different ways, but only some will run smoothly and fast enough 
 that users will want to continue using it.
 
-For example:
+## For example:
 We've seen how to search an ArrayList of Strings for a particular String inside, we know that we need to use a 
 loop to compare that String with every other String in the list (even when using the indexOf method, internally 
 it will still use a loop to search for your item).
