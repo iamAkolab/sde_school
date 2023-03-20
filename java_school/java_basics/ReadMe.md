@@ -1,5 +1,4 @@
-# Course Structure.
-
+# Course Structure
 
 In this first lesson, you’ll program your computer to remember numbers and text using variables, and 
 you’ll get to use variables to do lots of calculations that us humans can’t do!
