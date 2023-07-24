@@ -1,3 +1,3 @@
 # Github Fundamental
 
-git diff:  Show the differences between two files
+git diff:  Show the differences between two files.
